@@ -327,3 +327,7 @@ Installing is performed by just simply execute/running the file INSTALL.sh:
 If packaging, append DESTDIR=/tmp/path in front of your command:
 
 `DESTDIR=/tmp/path ./INSTALL.sh`
+
+## License
+
+This project is licensed under the terms of the GNU General Public License (GPL) version 3 or later. See the [LICENSE](LICENSE) file for details.
