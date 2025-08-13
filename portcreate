@@ -17,6 +17,9 @@
 #  You should have received a copy of the GNU General Public License
 #  along with this program.  If not, see <https://www.gnu.org/licenses/>.
 #
+#
+#  script to create a new port using a template
+#
 
 if [ -d "$1" ]; then
 	echo "ERROR: Directory '$1' already exist!"
